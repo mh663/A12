@@ -113,6 +113,10 @@ main ul {
 main li {
 	padding-bottom: .35em;
 }
+
+article img {
+	float: right; !important;
+}
 /* the styles for the footer */
 footer {
 	background-color: #931420;
